@@ -1,0 +1,7 @@
+### test add user
+GET http://localhost:8080/home?apikey=qwer
+
+### test add user serach param
+GET http://localhost:8080/about?apikey=qwer
+### test home/welcome
+GET http://localhost:8080/home/welcome?apikey=qwer
