@@ -1,0 +1,34 @@
+router
+vue create 이름
+
+이름폴더까지 들어간후 code . 으로 새창을 열어준다.
+
+Vuex-> store 관련 기능이 있음
+store에 있는 index.js는 전역변수를 관리해준다.
+state -<data 와 쓰임이 비슷하다.
+computed : {} store에서 데이터를 가져올때 사용
+
+
+commit 과 state 활용
+
+
+axios 연동
+npm i axios
+npm i axios vue-axios
+
+몽고디비-> 조직 ->데이터베이스->클러스터 생성
+
+//몽고디비 서버 만들기
+npm i mongodb dotenv
+npm i -D cross-env nodemon
+npm I express
+“type”:”module”
+“dev” : “cross-env NODE_ENV=dev nodemon index”
+
+#paasswd : 성민98!
+#passwd : 
+
+
+
+
+

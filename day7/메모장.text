@@ -1,0 +1,13 @@
+/*vue 설치
+npm install -g @vue/cli
+
+Vetur 
+Vue 3 snippets
+HTML CSS Support
+*/
+
+vue create hello   //hello 라는 프로젝트 생성
+hello에서 code. 으로 열고 작업을 해야한다. 아니면 에러발생
+npm run serve 서버실행
+
+페이지는 퍼블릭에다 넣으면 된다.
